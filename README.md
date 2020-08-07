@@ -1,3 +1,7 @@
+A simple react app that tells you how the weather is based off of what hemisphere you are located in and the current month.
+
+Uses React and SemanticUI for loading screen and icons.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
